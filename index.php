@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Sherlock Holmes Online</title>
+        <title>Sherlock Holmes</title>
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
         <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -41,11 +41,10 @@
         </style>
     </head>
     <body>
-        <h1>Sherlock Holmes Online</h1>
+        <h1>Sherlock Holmes</h1>
         <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="list.php">List of Books</a></li>
-            <li><a href="borrow.php">Borrow a Book</a></li>
+            <li><a href="menus.php">List of Books</a></li>
         </ul>
 
         <div class="row">
